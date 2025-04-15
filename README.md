@@ -1,2 +1,2 @@
 # Artificial Intelligence
-Artificial Intelligence algorithms in Python
+Artificial Intelligence algorithms in Python and Go
