@@ -1,2 +1,4 @@
 # Artificial Intelligence
-Artificial Intelligence algorithms in Python and Go
+Artificial Intelligence algorithms in Python, JavaScript and Go
+
+[JavaScript Examples](javascript)
