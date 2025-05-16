@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple reflex agent: chatbot</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+        .chat-container {
+            width: 400px;
+            margin: 0 auto;
+            background-color: #f4f4f9;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .chat-box {
+            height: 300px;
+            overflow-y: scroll;
+            margin-bottom: 20px;
+            border: 1px solid #ccc;
+            padding: 10px;
+            background-color: white;
+            border-radius: 8px;
+        }
+        input[type="text"] {
+            width: 100%;
+            padding: 10px;
+            border-radius: 8px;
+            border: 1px solid #ccc;
+            margin-top: 10px;
+        }
+        .message {
+            padding: 5px;
+            margin: 5px 0;
+        }
+        .user-message {
+            background-color: #d1e7ff;
+            border-radius: 8px;
+            padding: 10px;
+        }
+        .bot-message {
+            background-color: #f0f0f0;
+            border-radius: 8px;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="chat-container">
+        <h2>Simple reflex chatbot</h2>
+        <div id="chat-box" class="chat-box"></div>
+        <input type="text" id="user-input" placeholder="Escribe algo..." />
+    </div>
+
+    <script src="chatbot.js"></script>
+</body>
+</html>
+

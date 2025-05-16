@@ -1,0 +1,41 @@
+#log {
+    width: 75%;
+    margin: 0 auto;
+}
+
+table {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 75%;
+    margin: 0 auto;
+}
+
+td, th {
+    border: 1px solid #ddd;
+    padding: 3px;
+}
+
+th, thead {
+    padding-top: 3px;
+    padding-bottom: 3px;
+    text-align: left;
+    background: #1f618d ;
+    background-color: #1f618d ;
+    color: white;
+}
+
+tr:nth-child(even){background-color: #f2f2f2;}
+
+tbody tr:hover {background-color: #ddd;}
+
+tr { text-align: center;}
+
+.node {
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+    background-color: #f4f4f4;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
