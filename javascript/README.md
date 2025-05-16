@@ -8,43 +8,43 @@
 
 #### Simple reflex agents:
 
-[Vacuum cleaner](https://luisespino.github.io/artificial-intelligence-js/01-simple-reflex-agent/cleaner/)
+[Vacuum cleaner](https://luisespino.github.io/artificial-intelligence/javascript/01-simple-reflex-agent/cleaner/)
 
-[Simple chatbot](https://luisespino.github.io/artificial-intelligence-js/01-simple-reflex-agent/chatbot/)
+[Simple chatbot](https://luisespino.github.io/artificial-intelligence/javascript/01-simple-reflex-agent/chatbot/)
 
 #### Uninformed search:
 
-[Breadth and Depth Search](https://luisespino.github.io/artificial-intelligence-js/02-uninformed-search/breadth-depth-search.html)
+[Breadth and Depth Search](https://luisespino.github.io/artificial-intelligence/javascript/02-uninformed-search/breadth-depth-search.html)
 
-[Uniform Cost Search](https://luisespino.github.io/artificial-intelligence-js/03_uniform_cost.html)
+[Uniform Cost Search](https://luisespino.github.io/artificial-intelligence/javascript/03_uniform_cost.html)
 
 
 #### Informed search:
 
-[Best First Search](https://luisespino.github.io/artificial-intelligence-js/04_bestfirst.html)
+[Best First Search](https://luisespino.github.io/artificial-intelligence/javascript/04_bestfirst.html)
 
-[AStar Search](https://luisespino.github.io/artificial-intelligence-js/05_astar.html)
+[AStar Search](https://luisespino.github.io/artificial-intelligence/javascript/05_astar.html)
 
-[Steepest Ascent Search](https://luisespino.github.io/artificial-intelligence-js/07_colinas.html)
+[Steepest Ascent Search](https://luisespino.github.io/artificial-intelligence/javascript/07_colinas.html)
 
 #### Genetic algorithm
 
-[Genetic Algorithm](https://luisespino.github.io/artificial-intelligence-js/06_ag.html)
+[Genetic Algorithm](https://luisespino.github.io/artificial-intelligence/javascript/06_ag.html)
 
 #### Machine Learning
 
-[Linear Regression](https://luisespino.github.io/artificial-intelligence-js/08-linear-regression.html)
+[Linear Regression](https://luisespino.github.io/artificial-intelligence/javascript/08-linear-regression.html)
 
-[Polynomial Regression](https://luisespino.github.io/artificial-intelligence-js/09-polynomial-regression.html)
+[Polynomial Regression](https://luisespino.github.io/artificial-intelligence/javascript/09-polynomial-regression.html)
 
-[Gaussian Naive Bayes](https://luisespino.github.io/artificial-intelligence-js/10-gaussian-nb.html)
+[Gaussian Naive Bayes](https://luisespino.github.io/artificial-intelligence/javascript/10-gaussian-nb.html)
 
-[Decision Tree](https://luisespino.github.io/artificial-intelligence-js/11-decision-tree.html)
+[Decision Tree](https://luisespino.github.io/artificial-intelligence/javascript/11-decision-tree.html)
 
-[MLP Classifier Logic Gates ](https://luisespino.github.io/artificial-intelligence-js/12-mlp-classifier.html)
+[MLP Classifier Logic Gates ](https://luisespino.github.io/artificial-intelligence/javascript/12-mlp-classifier.html)
 
-[MLP Classifier](https://luisespino.github.io/artificial-intelligence-js/13-mlp-classifier.html)
+[MLP Classifier](https://luisespino.github.io/artificial-intelligence/javascript/13-mlp-classifier.html)
 
-[KMeans Cluster Classifier](https://luisespino.github.io/artificial-intelligence-js/14-kmeans-classifier.html)
+[KMeans Cluster Classifier](https://luisespino.github.io/artificial-intelligence/javascript/14-kmeans-classifier.html)
 
-[KNearest Neighbors Classifier](https://luisespino.github.io/artificial-intelligence-js/15-neighbors-classifier.html)
+[KNearest Neighbors Classifier](https://luisespino.github.io/artificial-intelligence/javascript/15-neighbors-classifier.html)
