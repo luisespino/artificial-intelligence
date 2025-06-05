@@ -5,7 +5,7 @@ import (
 	"time"
 )
 
-// Agente reactivo simple
+// This function determines the action based on the current location and state
 func reflexAgent(location, state string) string {
 	if state == "DIRTY" {
 		return "CLEAN"
@@ -17,8 +17,8 @@ func reflexAgent(location, state string) string {
 	return ""
 }
 
-// Lógica principal
-func test(states []string) {
+// This function simulates the vacuum cleaner's operation
+func run(states []string) {
 	for {
 		location := states[0]
 		var state string
@@ -47,7 +47,8 @@ func test(states []string) {
 	}
 }
 
+// The main function initializes the states and starts the vacuum cleaner simulation
 func main() {
 	states := []string{"A", "DIRTY", "DIRTY"} // [location, A_state, B_state]
-	test(states)
+	run(states)
 }
