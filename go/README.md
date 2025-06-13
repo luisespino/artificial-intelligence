@@ -15,3 +15,5 @@
 [Uniform Cost](02uninformedsearch/uniformcost/)
 
 ## Informed Search
+
+[Best First](03informedsearch/bestfirst/)
