@@ -1,0 +1,6 @@
+github.com/snugml/go v0.0.0-20250623060412-de7a7ea0dca3 h1:Gas0ypo5lrx97BFcwJDuZYdRCfYq0sQbKMDXHKILl00=
+github.com/snugml/go v0.0.0-20250623060412-de7a7ea0dca3/go.mod h1:fxMrWhmR8DatVbh+hsQCZUqHeTJqiUCkaaWnxp6yRKc=
+github.com/snugml/go v0.0.0-20250623062256-46f54f59e31d h1:RO8/V09riDpI8HCNMEtbKRdETohoJNrXv94qHt9y/6g=
+github.com/snugml/go v0.0.0-20250623062256-46f54f59e31d/go.mod h1:fxMrWhmR8DatVbh+hsQCZUqHeTJqiUCkaaWnxp6yRKc=
+gonum.org/v1/gonum v0.16.0 h1:5+ul4Swaf3ESvrOnidPp4GZbzf0mxVQpDCYUQE7OJfk=
+gonum.org/v1/gonum v0.16.0/go.mod h1:fef3am4MQ93R2HHpKnLk4/Tbh/s0+wqD5nfa6Pnwy4E=
