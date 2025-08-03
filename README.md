@@ -11,9 +11,9 @@ Artificial Intelligence algorithms in Python, JavaScript and Go
 
 #### Simple reflex agents:
 
-[Vacuum cleaner](https://luisespino.github.io/artificial-intelligence/01-intelligent-agent/vacuum/javascript/01-simple-reflex-agent/cleaner/)
+[Vacuum cleaner](https://luisespino.github.io/artificial-intelligence/01-intelligent-agent/vacuum/javascript/cleaner/)
 
-[Simple chatbot](https://luisespino.github.io/artificial-intelligence/javascript/01-intelligent-agent/chatbot/javascript/01-simple-reflex-agent/chatbot/)
+[Simple chatbot](https://luisespino.github.io/artificial-intelligence/javascript/01-intelligent-agent/chatbot/javascript/chatbot/)
 
 #### Uninformed search:
 
