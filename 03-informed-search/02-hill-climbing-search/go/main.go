@@ -59,7 +59,7 @@ func successor(n []interface{}, end string, h int) [][]interface{} {
 	return [][]interface{}{}
 }
 
-func bestfirst(start, end string, h int) string {
+func hill(start, end string, h int) string {
 	dot := "graph G {\n"
 	list := [][]interface{}{
 		{start, heuristic(start, end, h), inc()},
@@ -116,6 +116,6 @@ func main() {
 	end := parts[1]
 	h, _ := strconv.Atoi(parts[2])
 
-	result := bestfirst(start, end, h)
+	result := hill(start, end, h)
 	fmt.Println(result)
 }
