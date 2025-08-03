@@ -28,7 +28,7 @@ Artificial Intelligence algorithms in Python, JavaScript and Go
 
 [Best First Search](https://luisespino.github.io/artificial-intelligence/03-informed-search/01-best-first-search/javascript/)
 
-[Steepest Ascent Search](https://luisespino.github.io/artificial-intelligence/03-informed-search/02-hill_climbing-search/javascript/)
+[Steepest Ascent Search](https://luisespino.github.io/artificial-intelligence/03-informed-search/02-hill-climbing-search/javascript/)
 
 [AStar Search](https://luisespino.github.io/artificial-intelligence/03-informed-search/04-astart-search/javascript/)
 
