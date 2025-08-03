@@ -35,7 +35,7 @@ Artificial Intelligence algorithms in Python, JavaScript and Go
 
 #### Genetic algorithm
 
-[Genetic Algorithm](https://luisespino.github.io/artificial-intelligence/javascript/06_ag.html)
+[Genetic Algorithm](https://luisespino.github.io/artificial-intelligence/05-genetic-algorithm/javascript/)
 
 #### Machine Learning
 
