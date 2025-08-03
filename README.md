@@ -30,7 +30,7 @@ Artificial Intelligence algorithms in Python, JavaScript and Go
 
 [Steepest Ascent Search](https://luisespino.github.io/artificial-intelligence/03-informed-search/02-hill-climbing-search/javascript/)
 
-[AStar Search](https://luisespino.github.io/artificial-intelligence/03-informed-search/04-astart-search/javascript/)
+[AStar Search](https://luisespino.github.io/artificial-intelligence/03-informed-search/04-astar-search/javascript/)
 
 
 #### Genetic algorithm
