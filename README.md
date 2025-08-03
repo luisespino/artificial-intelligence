@@ -43,7 +43,7 @@ Artificial Intelligence algorithms using Python, Go and JavaScript.
 
 [Linear Regression](https://luisespino.github.io/artificial-intelligence/06-ml-linear-regression/javascript/)
 
-[Polynomial Regression](https://luisespino.github.io/artificial-intelligence/javascript/09-polynomial-regression.html)
+[Polynomial Regression](https://luisespino.github.io/artificial-intelligence/07-ml-polynomial-regression/javascript/)
 
 [Gaussian Naive Bayes](https://luisespino.github.io/artificial-intelligence/javascript/10-gaussian-nb.html)
 
