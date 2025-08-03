@@ -1,11 +1,11 @@
-# Artificial Intelligence
-Artificial Intelligence algorithms in Python, JavaScript and Go
-
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/ECYS-FIUSAC/fortranpeg/actions)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT)
+![programming_language: Python](https://img.shields.io/badge/programming_language-Python-blue)
+![programming_language: Go](https://img.shields.io/badge/programming_language-Go-blue)
 ![programming_language: JavaScript](https://img.shields.io/badge/programming_language-JavaScript-blue)
 
-# Artificial Intelligence 
+# Artificial Intelligence
+Artificial Intelligence algorithms
 
 ### Examples of Programming with plain JavaScript
 
