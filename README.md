@@ -13,7 +13,7 @@ Artificial Intelligence algorithms in Python, JavaScript and Go
 
 [Vacuum cleaner](https://luisespino.github.io/artificial-intelligence/01-intelligent-agent/vacuum/javascript/)
 
-[Simple chatbot](https://luisespino.github.io/artificial-intelligence/javascript/01-intelligent-agent/chatbot/javascript/)
+[Simple chatbot](https://luisespino.github.io/artificial-intelligence/01-intelligent-agent/chatbot/javascript/)
 
 #### Uninformed search:
 
