@@ -5,9 +5,9 @@
 ![programming_language: JavaScript](https://img.shields.io/badge/programming_language-JavaScript-blue)
 
 # Artificial Intelligence
-Artificial Intelligence algorithms
+Artificial Intelligence algorithms using Python, Go and JavaScript.
 
-### Examples of Programming with plain JavaScript
+### JavaScript-Based Algorithm Visualizations
 
 #### Simple reflex agents:
 
@@ -39,7 +39,9 @@ Artificial Intelligence algorithms
 
 #### Machine Learning
 
-[Linear Regression](https://luisespino.github.io/artificial-intelligence/javascript/08-linear-regression.html)
+##### Supervised
+
+[Linear Regression](https://luisespino.github.io/artificial-intelligence/06-ml-linear-regression/javascript/)
 
 [Polynomial Regression](https://luisespino.github.io/artificial-intelligence/javascript/09-polynomial-regression.html)
 
@@ -50,6 +52,8 @@ Artificial Intelligence algorithms
 [MLP Classifier Logic Gates ](https://luisespino.github.io/artificial-intelligence/javascript/12-mlp-classifier.html)
 
 [MLP Classifier](https://luisespino.github.io/artificial-intelligence/javascript/13-mlp-classifier.html)
+
+##### Unsupervised
 
 [KMeans Cluster Classifier](https://luisespino.github.io/artificial-intelligence/javascript/14-kmeans-classifier.html)
 
