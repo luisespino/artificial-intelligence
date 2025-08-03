@@ -45,9 +45,9 @@ Artificial Intelligence algorithms using Python, Go and JavaScript.
 
 [Polynomial Regression](https://luisespino.github.io/artificial-intelligence/07-ml-polynomial-regression/javascript/)
 
-[Gaussian Naive Bayes](https://luisespino.github.io/artificial-intelligence/09-naive-bayes/javascript/)
+[Gaussian Naive Bayes](https://luisespino.github.io/artificial-intelligence/09-ml-naive-bayes/javascript/)
 
-[Decision Tree](https://luisespino.github.io/artificial-intelligence/javascript/11-decision-tree.html)
+[Decision Tree](https://luisespino.github.io/artificial-intelligence/javascript/11-ml-decision-tree.html)
 
 [MLP Classifier Logic Gates ](https://luisespino.github.io/artificial-intelligence/javascript/12-mlp-classifier.html)
 
