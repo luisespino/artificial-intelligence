@@ -17,9 +17,11 @@ Artificial Intelligence algorithms in Python, JavaScript and Go
 
 #### Uninformed search:
 
-[Breadth and Depth Search](https://luisespino.github.io/artificial-intelligence/javascript/02-uninformed-search/breadth-depth-search.html)
+[Breadth Search](https://luisespino.github.io/artificial-intelligence/02-uninformed-search/javascript/depth-search.html)
 
-[Uniform Cost Search](https://luisespino.github.io/artificial-intelligence/javascript/03_uniform_cost.html)
+[Depth Search](https://luisespino.github.io/artificial-intelligence/02-uninformed-search/javascript/breadth-search.html)
+
+[Uniform Cost Search](https://luisespino.github.io/artificial-intelligence/02-uninformed-search/javascript/)
 
 
 #### Informed search:
