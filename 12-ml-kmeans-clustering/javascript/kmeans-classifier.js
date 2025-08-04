@@ -1,6 +1,5 @@
 
-
-import { KNearestNeighbors, accuracyScore } from 'https://snugml.github.io/js/ml.mjs';
+import { KMeans } from 'https://snugml.github.io/js/ml.mjs';
 
 const X = [
     [1, 6],
@@ -15,23 +14,51 @@ const X = [
     [10, 5]
 ];
 
-const y = [0, 0, 0, 2, 2, 2, 1, 1, 1, 1 ];
+showTable(X);
 
-const table = X.map((fila, i) => [...fila, y[i]]);
-
-showTable(table);
-
-const model = new KNearestNeighbors();
-model.fit(X, y);
+const model = new KMeans(3, 300, 1e-4, 0);
+model.fit(X);
 
 const yPredict = model.predict(X);
 
-const accuracy = accuracyScore(y, yPredict);
+const centroids = model.getCentroids();
 
 const log = document.getElementById('log');
 log.innerHTML += '<br><br>Predict:<br>'+ JSON.stringify(yPredict, null, 2);
-log.innerHTML += '<br><br>AccuracyScore: '+accuracy;
 
+log.innerHTML += '<br><br>Centroids:<br>'+ JSON.stringify(centroids, null, 2);
+
+
+google.charts.load('current', { packages: ['corechart'] });
+google.charts.setOnLoadCallback(drawChart);
+
+function drawChart() {
+    const data = new google.visualization.DataTable();
+    data.addColumn('number', 'X');
+    data.addColumn('number', 'Y');
+    data.addColumn({ type: 'string', role: 'style' });
+
+
+    const colores = ['red', 'green', 'blue']; // Colores por cluster
+
+    // Armar los datos con colores
+    const datosGraficados = X.map((p, i) => [p[0], p[1], `point { fill-color: ${colores[yPredict[i]]}; }`]);
+
+    centroids.forEach(c => datosGraficados.push([c[0], c[1], 'point { fill-color: black; }']));
+
+    data.addRows(datosGraficados);
+
+    const options = {
+        title: 'Clustering con KMeans',
+        hAxis: { title: 'X' },
+        vAxis: { title: 'Y' },
+        legend: 'none',
+        pointSize: 10
+    };
+
+    const chart = new google.visualization.ScatterChart(document.getElementById('chart_div'));
+    chart.draw(data, options);
+}
 
 function showTable(table) {
     let container = document.getElementById('table-container');
@@ -42,7 +69,7 @@ function showTable(table) {
     // Crear la cabecera de la tabla
     let header = tableElement.createTHead();
     let headerRow = header.insertRow();
-    let headers = ['X', 'Y', 'CLASS'];
+    let headers = ['X', 'Y'];
     headers.forEach(headerText => {
         let cell = headerRow.insertCell();
         cell.textContent = headerText;
