@@ -53,8 +53,10 @@ Artificial Intelligence algorithms using Python, Go and JavaScript.
 
 [MLP Classifier](https://luisespino.github.io/artificial-intelligence/10-ml-neural-network/javascript/mlp_quinlan.html)
 
+[KNearest Neighbors Classifier](https://luisespino.github.io/artificial-intelligence/11-ml-knearest/javascript/)
+
+
 ##### Unsupervised
 
-[KMeans Cluster Classifier](https://luisespino.github.io/artificial-intelligence/javascript/14-kmeans-classifier.html)
+[KMeans Cluster Classifier](https://luisespino.github.io/artificial-intelligence/12-ml-kmeans-clustering/javascript/)
 
-[KNearest Neighbors Classifier](https://luisespino.github.io/artificial-intelligence/javascript/15-neighbors-classifier.html)
