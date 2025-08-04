@@ -49,9 +49,9 @@ Artificial Intelligence algorithms using Python, Go and JavaScript.
 
 [Gaussian Naive Bayes](https://luisespino.github.io/artificial-intelligence/09-ml-naive-bayes/javascript/)
 
-[MLP Classifier Logic Gates ](https://luisespino.github.io/artificial-intelligence/10-ml-neural-network/javascript/)
+[MLP Classifier Logic Gates ](https://luisespino.github.io/artificial-intelligence/10-ml-neural-network/javascript/mlp_logic_gates.html)
 
-[MLP Classifier](https://luisespino.github.io/artificial-intelligence/10-ml-neural-network/javascript/)
+[MLP Classifier](https://luisespino.github.io/artificial-intelligence/10-ml-neural-network/javascript/mlp_quinlan.html)
 
 ##### Unsupervised
 
